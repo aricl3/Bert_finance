@@ -1,4 +1,4 @@
-# This is a project based on bert
+# This is a project based on LLM and aim at create a program for sentiment analysis
 
 we introduce datasets which can be obtain on website:
 [link](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news?resource=download)
